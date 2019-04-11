@@ -1,0 +1,6 @@
+projectKey=jenkins-sonar-stock-select-core-logic-refresh
+serverUrl=http://localhost:9000/sonar
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/sonar/dashboard?id=jenkins-sonar-stock-select-core-logic-refresh
+ceTaskId=AWoM5SgiDXGBrAx4ffyY
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AWoM5SgiDXGBrAx4ffyY
